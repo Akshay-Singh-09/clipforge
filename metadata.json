@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge",
+  "description": "YouTube clipping, viral hook analysis, 9:16 framing studio, niche intelligence, and multi-channel growth analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

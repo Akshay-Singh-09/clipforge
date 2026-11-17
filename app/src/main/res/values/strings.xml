@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClipForge</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_tracker">Trackers</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_trends">Niche</string>
+    <string name="nav_queue">Exports</string>
+    <string name="cd_toggle_theme">Toggle dark or light theme</string>
+    <string name="cd_open_about">About ClipForge</string>
+    <string name="about_title">About ClipForge</string>
+    <string name="about_made_by">Made by Google</string>
+    <string name="about_description">Live YouTube RSS ingestion monitor, on-device MP4 trimmer &amp; 9:16 studio, title hook analyzer, and export workspace.</string>
+    <string name="about_ai_status">Optional Gemini Hook Scoring requires Firebase AI Logic. All RSS tracking, MP4 trimming, caption export, and title analytics run live on-device.</string>
+    <string name="ai_firebase_notice">Sample AI output shown. Live Gemini scoring requires Firebase.</string>
+</resources>

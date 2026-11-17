@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer 9:16 frame safely within 66dp central zone (x: 32..70, y: 27..81) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M37,27 L64,27 C67.3,27 70,29.7 70,33 L70,75 C70,78.3 67.3,81 64,81 L37,81 C33.7,81 31,78.3 31,75 L31,33 C31,29.7 33.7,27 37,27 Z M37,33 L37,75 L64,75 L64,33 Z" />
+    <!-- Crisp center play mark -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M45.5,45 L59,54 L45.5,63 Z" />
+    <!-- Precision vermilion trim indicator bar -->
+    <path
+        android:fillColor="#FFE63B2E"
+        android:pathData="M74,35 C74,33.3 75.3,32 77,32 C78.7,32 80,33.3 80,35 L80,73 C80,74.7 78.7,76 77,76 C75.3,76 74,74.7 74,73 Z" />
+</vector>
